@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Milonee</h1>
-<h3 align="center">A human who is passionate about Java,HTML,MySQL and C++</h3>
+<h3 align="center">Journeying Into Java Backend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miloneev19&label=Profile%20views&color=0e75b6&style=flat" alt="miloneev19" /> </p>
 
